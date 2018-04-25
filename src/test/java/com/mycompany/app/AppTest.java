@@ -34,7 +34,7 @@ public class AppTest
     {
         App.main(null);
         try {
-            assertEquals("Hello World! Changed push 7th try" + System.getProperty("line.separator"), outContent.toString());
+            assertEquals("Hello World! Changed push 8th try" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
             fail("\"message\" is not \"Hello World!\"");
         }
