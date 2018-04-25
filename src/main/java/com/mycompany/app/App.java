@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! Changed push 8th try";
+    private final String message = "Hello World! Changed push 9th try";
 
     public App() {}
 
